@@ -14,8 +14,6 @@
     margin: 0 auto;
     width: 1210px;
     height: 1000px;
-    border: 1px solid red;
-
 }
 
 #topBox {
@@ -39,6 +37,8 @@
     width: 145px;
     height: 170px;
     border: 1px solid lightgray;
+    z-index: 111;
+    background: white;
 }
 
 #address ul, li {
