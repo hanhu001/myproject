@@ -1,0 +1,1 @@
+var ary=["img/figure1.jpg","img/figure2.jpg","img/figure3.jpg","img/figure4.jpg"];
